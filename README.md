@@ -43,3 +43,15 @@ I value clear technical reasoning, reproducible results, and solutions that rema
 ---
 
 *Always learning, building, testing, and improving.*
+## Featured Projects
+
+### Weighted Graph Algorithms (C++17)
+
+A C++17 project demonstrating graph traversal, shortest-path
+algorithms, connected components, and monotonic-stack algorithms.
+
+- CMake build system
+- Automated regression tests
+- GitHub Actions CI
+
+[View Repository](https://github.com/AhmedImam1983/weighted-graph-cpp)
